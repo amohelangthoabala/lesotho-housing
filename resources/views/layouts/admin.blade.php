@@ -11,8 +11,8 @@
 
   <!-- Favicons -->
 
-  <link href="{{asset('assets/img/favicon.png')}} " rel="icon">
-  <link href="{{asset('assets/img/apple-touch-icon.png')}} " rel="apple-touch-icon">
+  <link href="{{secure_asset('assets/img/favicon.png')}} " rel="icon">
+  <link href="{{secure_asset('assets/img/apple-touch-icon.png')}} " rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -182,19 +182,19 @@
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="{{asset('assets/vendor/jquery/jquery.min.js')}}"></script>
-  <script src="{{asset('assets/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
-  <script src="{{asset('assets/vendor/jquery.easing/jquery.easing.min.js')}}"></script>
-  <script src="{{asset('assets/vendor/php-email-form/validate.js')}}"></script>
-  <script src="{{asset('assets/vendor/waypoints/jquery.waypoints.min.js')}}"></script>
-  <script src="{{asset('assets/vendor/counterup/counterup.min.js')}}"></script>
-  <script src="{{asset('assets/vendor/venobox/venobox.min.js')}}"></script>
-  <script src="{{asset('assets/vendor/owl.carousel/owl.carousel.min.js')}}"></script>
-  <script src="{{asset('assets/vendor/isotope-layout/isotope.pkgd.min.js')}}"></script>
-  <script src="{{asset('assets/vendor/aos/aos.js')}}"></script>
+  <script src="{{secure_asset('assets/vendor/jquery/jquery.min.js')}}"></script>
+  <script src="{{secure_asset('assets/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+  <script src="{{secure_asset('assets/vendor/jquery.easing/jquery.easing.min.js')}}"></script>
+  <script src="{{secure_asset('assets/vendor/php-email-form/validate.js')}}"></script>
+  <script src="{{secure_asset('assets/vendor/waypoints/jquery.waypoints.min.js')}}"></script>
+  <script src="{{secure_asset('assets/vendor/counterup/counterup.min.js')}}"></script>
+  <script src="{{secure_asset('assets/vendor/venobox/venobox.min.js')}}"></script>
+  <script src="{{secure_asset('assets/vendor/owl.carousel/owl.carousel.min.js')}}"></script>
+  <script src="{{secure_asset('assets/vendor/isotope-layout/isotope.pkgd.min.js')}}"></script>
+  <script src="{{secure_asset('assets/vendor/aos/aos.js')}}"></script>
 
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="{{secure_asset('assets/js/main.js')}}"></script>
 
 </body>
 
