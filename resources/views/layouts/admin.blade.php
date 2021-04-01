@@ -27,7 +27,7 @@
   <link href="{{asset('assets/vendor/aos/aos.css')}} " rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="{{asset('assets/css/style.css')}} " rel="stylesheet">
+  <link href="/assets/css/style.css" rel="stylesheet">
  <!-- =======================================================
   * Template Name: Serenity - v2.2.0
   * Template URL: https://bootstrapmade.com/serenity-bootstrap-corporate-template/
