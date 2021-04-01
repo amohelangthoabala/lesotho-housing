@@ -194,7 +194,7 @@
   <script src="{{secure_asset('assets/vendor/aos/aos.js')}}"></script>
 
   <!-- Template Main JS File -->
-  <script src="{{secure_asset('assets/js/main.js')}}"></script>
+  <script src="{{'assets/js/main.js'}}"></script>
 
 </body>
 
